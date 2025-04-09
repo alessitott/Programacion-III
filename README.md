@@ -1,4 +1,5 @@
 # Programacion-III
-Ejemplo de programacion 3 
+Ejemplo de programacion 3 /n
 DAVID ALEJANDRO CORDOVA ANDRADE
-Tema: Test Unitarios con Inteligencia Artificial
+Tema: Ecommerce para una tienda de dispositovos moviles y electronicos
+
